@@ -1,0 +1,4 @@
+﻿  UnitTest(1.2).cpp
+C:\Users\Maria\source\repos\Lab(1.2)\Lab(1.2)\Матриця.cpp(52): warning C4715: 'Матриця::getValueByIndex': not all control paths return a value
+     Creating library C:\Users\Maria\source\repos\Lab(1.2)\Debug\UnitTest(1.2).lib and object C:\Users\Maria\source\repos\Lab(1.2)\Debug\UnitTest(1.2).exp
+  UnitTest(1.2).vcxproj -> C:\Users\Maria\source\repos\Lab(1.2)\Debug\UnitTest(1.2).dll
